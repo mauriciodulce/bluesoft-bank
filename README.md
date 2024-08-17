@@ -6,7 +6,7 @@ Bluesoft Bank es una aplicación web desarrollada en Laravel 11 para gestionar c
 
 ## Requerimientos
 
-- PHP 8.1 o superior
+- PHP 8.3 o superior
 - Laravel 11
 - Composer
 - Base de datos (MySQL, PostgreSQL, SQLite, etc.)
